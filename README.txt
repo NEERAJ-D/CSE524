@@ -21,6 +21,8 @@ Screens:-
 
 There are certain additional information screens that include Mechanism of Injury as well as Psychosocial information as well.
 
+Another important functionality that has been introduced is the timeline view.
+The timeline view presents a complete picture to the user to depict the timeline of the different activities that enable any authorized user to recreate the entire emergency scenario. Since the earlier process relied on the memory of the involved medical staff to recreate the exact process, it introduced human error, but by automating the process of recording the time of these events , the occurences can be recorded successfully without any error thus improving the quality of the entire input process. 
 
 
 
