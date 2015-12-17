@@ -24,7 +24,7 @@ There are certain additional information screens that include Mechanism of Injur
 Another important functionality that has been introduced is the timeline view.
 The timeline view presents a complete picture to the user to depict the timeline of the different activities that enable any authorized user to recreate the entire emergency scenario. Since the earlier process relied on the memory of the involved medical staff to recreate the exact process, it introduced human error, but by automating the process of recording the time of these events , the occurences can be recorded successfully without any error thus improving the quality of the entire input process. 
 
-
+Amongst some of the back-end technologies explored was NodeJS. NodeJS provides an easy interface to the front-end JS libraries and the charting libraries. The NodeJS has different methods like routes that enable different routes for separate GET requests. The different functionalities can be modularized in the form of separate functions that can be extended or modified as required.
 
 
 
